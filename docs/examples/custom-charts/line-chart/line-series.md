@@ -1,9 +1,7 @@
     
   # Charts-Line
 
-  Used to draw a line in a chart.
-
-  Use ngx-charts-line-series to allow for multiple lines.
+  Used to draw lines in a chart.
 
  ## Usage Example
 
